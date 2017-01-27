@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\mingw-w64\i686-6.3.0-win32-dwarf-rt_v5-rev1\mingw32\bin\gcc.exe" makedef.c -O3 -o makedef.exe
+"C:\Program Files\mingw-w64\x86_64-6.3.0-win32-seh-rt_v5-rev1\mingw64\bin\gcc.exe" makedef.c -O3 -o makedef64.exe 
